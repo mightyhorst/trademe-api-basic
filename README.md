@@ -1,4 +1,6 @@
-trademe-api-basic
+TradeMe API Basic Example
 =================
 
-Basic Integration of the Trade Me API's create listing functionality
+This code example creates a new auction using TradMe's oAuth API.
+
+Written in PHP and MySQL. Depends on cUrl installation.
